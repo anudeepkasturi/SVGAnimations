@@ -1,5 +1,8 @@
 # Animated SVG
 
+[Live Demo]
+[Live Demo]: https://anudeepkasturi.github.io/SVGAnimations/
+
 This is a simple project I made to learn how to use Scalable Vector Graphics (SVGs) and animate them through CSS. I wish to apply these skills to create interactive and responsive infographics.
 
 ## Accessible DOM
